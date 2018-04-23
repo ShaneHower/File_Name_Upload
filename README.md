@@ -9,6 +9,6 @@ First click the green "clone/download" button in the top right of the repository
 ```
 > python 
 >>> from XL_Sync import XLSync 
->>> XLSync("/../../desired_path","name_of_the_file").execute
+>>> XLSync("/../../desired_path","name_of_the_file").execute()
 ```
 
