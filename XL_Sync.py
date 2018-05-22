@@ -1,6 +1,6 @@
 from openpyxl import Workbook
 import os
-from tkinter import *
+from Tkinter import *
 
 class XLSync:
     def __init__(self, path, name):
